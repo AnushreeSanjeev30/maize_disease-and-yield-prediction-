@@ -1,0 +1,9 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files (Good practice to ignore large data)
+*.csv
